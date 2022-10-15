@@ -4,3 +4,4 @@
 | Carlos  | Velásquez | <a href="https://github.com/CarlosVelasquezAyan">CarlosVelasquezAyan</a>   |
 | Gonzalo|Rojas     | ZaloRED     |
 | Ignacio|Villacura | ivillacu    |
+| Patricio|Fontecilla | <a href="https://github.com/PatricioFontecilla">PatricioFontecilla</a>    |
